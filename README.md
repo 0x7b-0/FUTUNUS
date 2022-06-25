@@ -2,7 +2,7 @@
 ## utility for hack wifi
 Futunus - is program which used WPS for generate PIN
 # Installing
-## Termux
+## Linux
 - $ pkg install python
 - $ pkg install git
 - $ git clone https://github.com/SLASH-02/FUTUNUS
