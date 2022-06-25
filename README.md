@@ -15,4 +15,5 @@ Futunus - is program which used WPS for generate PIN
 - pip install rich
 
 ## Starting
+- cd FUTUNUS
 - python futunus.py
