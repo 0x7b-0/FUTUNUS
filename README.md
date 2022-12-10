@@ -5,7 +5,7 @@ Futunus - is program which used WPS for generate PIN
 ## Linux
 - $ apt install python
 - $ apt install git
-- $ git clone https://github.com/SLASH-02/FUTUNUS
+- $ git clone https://github.com/0x7b-0/FUTUNUS
 ###### Select installing type
 > Auto
 - python installing.py
@@ -17,3 +17,5 @@ Futunus - is program which used WPS for generate PIN
 ## Starting
 - cd FUTUNUS
 - python futunus.py
+
+#######on this moment, futunus dont work
