@@ -18,4 +18,4 @@ Futunus - is program which used WPS for generate PIN
 - cd FUTUNUS
 - python futunus.py
 
-####### on this moment, futunus dont work
+## on this moment, futunus dont work
